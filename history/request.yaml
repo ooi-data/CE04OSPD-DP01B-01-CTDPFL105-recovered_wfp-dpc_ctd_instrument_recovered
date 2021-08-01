@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE04OSPD-DP01B-01-CTDPFL105-recovered_wfp-dpc_ctd_instrument_recovered
-last_request: '2021-07-19T18:00:16.937925Z'
+last_request: '2021-08-01T00:55:16.857906Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSPD-DP01B-01-CTDPFL105-recovered_wfp-dpc_ctd_instrument_recovered/main/history/response.json
 status: failed
